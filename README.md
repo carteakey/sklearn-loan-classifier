@@ -15,7 +15,7 @@ This dataset is about past loans. The __Loan_train.csv__ data set includes detai
 | Education      | Education of applicant                                                                |
 | Gender         | The gender of applicant                                                               |
 
-We use the training set to build an accurate model and then use the test set to report the accuracy of the model using the following algorithms : 
+We use the training set to build an accurate model and then use the test set to report the accuracy of the model using the following algorithms: 
 - K Nearest Neighbor(KNN)
 - Decision Tree
 - Support Vector Machine
