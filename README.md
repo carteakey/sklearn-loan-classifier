@@ -1,5 +1,5 @@
 # Loan classification with sklearn
-using sklearn module to create and evaluate various machine learning models. This is the final project of the Coursera's Machine Learning with Python course
+Using sklearn module to create and evaluate various machine learning models. This is the final project of the Coursera's Machine Learning with Python course.
 
 ### About dataset
 This dataset is about past loans. The __Loan_train.csv__ data set includes details of 346 customers whose loan are already paid off or defaulted. It includes following fields:
